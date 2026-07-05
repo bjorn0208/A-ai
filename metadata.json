@@ -1,0 +1,6 @@
+{
+  "name": "Açai Revenda",
+  "description": "Plataforma de revenda e distribuição de açaí com simulação interativa de rentabilidade e personalização de copos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
